@@ -2,7 +2,7 @@
 Desert Dunes is a simple 2D platformer by Sophia created using Godot! (and submitted to the YSWS Jumpstart)
 
 # 🎯 Aim of the game: 
-Collect as many coins as you can and travel to the finish! (Total is 25 coins)
+Collect as many coins as you can and travel to the finish! (Total is 28 coins)
 
 # 🎮 Controls:
 
