@@ -1,5 +1,5 @@
 # 🏜 Desert Dunes
-Desert Dunes is a simple 2D platformer by Sophia created using Godot! (and submitted to the YSWS Jumpstart)
+Desert Dunes is a simple 2D platformer by Sophia created using Godot!
 
 # 🎯 Aim of the game: 
 [You are Stuart, the player]
@@ -31,5 +31,4 @@ When you reach the end of the game, you can see a sneak peek of my next (grass) 
 😁 Have fun!
 
 # ▶ Itch
-Play my game here: https://platinumplat.itch.io/desert-dunes 
-
+Play my game here: https://platinumplat.itch.io/desert-dunes
